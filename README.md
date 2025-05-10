@@ -1,5 +1,6 @@
 👋 Hi, I'm **Jawad Noori**!  
-📚 **Honors Computer Science Student**
+📚 **BSc Computer Science Student**
+
 💻 **Aspiring Software Engineer**  
 🚀 Developing production-grade applications using modern tech stacks
 

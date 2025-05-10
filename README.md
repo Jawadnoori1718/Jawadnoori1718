@@ -1,10 +1,10 @@
 👋 Hi, I'm **Jawad Noori**!  
 🎓 **Honors Computer Science Student** | 💻 **Full Stack Developer in Training**  
-🚀 **Future Tech Leader** Building Enterprise-Grade Web Solutions
+🛠️ Developing production-grade applications using modern tech stacks
 
 ---
 
-## 🛠️ **Technical Arsenal**  
+## 🛠️ **Tech Spectrum**  
 
 **Frontend Mastery:**  
 ![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat&logo=react&logoColor=black)

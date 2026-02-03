@@ -9,10 +9,6 @@
 <div align="center">
 
 
-<div align="center">
-
-### Languages
-
 <table>
 <tr>
 <td align="center" width="96">
@@ -24,12 +20,12 @@
 <br><strong>Python</strong>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><strong>C#</strong>
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
 <br><strong>JavaScript</strong>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br><strong>C#</strong>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
@@ -39,13 +35,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
 <br><strong>CSS</strong>
 </td>
-</tr>
-</table>
 
-### Frontend
-
-<table>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br><strong>React</strong>
@@ -58,13 +48,7 @@
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
 <br><strong>Bootstrap</strong>
 </td>
-</tr>
-</table>
 
-### Backend & Databases
-
-<table>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
 <br><strong>Spring Boot</strong>
@@ -81,13 +65,7 @@
 <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
-</tr>
-</table>
 
-### Development Tools
-
-<table>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
 <br><strong>Git</strong>
@@ -112,13 +90,7 @@
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
 <br><strong>Figma</strong>
 </td>
-</tr>
-</table>
 
-### Hardware & IoT
-
-<table>
-<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
 <br><strong>Raspberry Pi</strong>

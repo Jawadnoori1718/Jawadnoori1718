@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;AI+and+ML+Engineer;Tech+Policy+Analyst;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;Full-Stack+Developer;AI+and+ML+Engineer;Tech+Policy+Analyst" alt="Typing SVG" />
 
 </div>
 
@@ -8,12 +8,6 @@
 <br/>
 
 <div align="center">
-
-## 🛠️ Tech Stack
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -159,7 +153,7 @@
   <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="LinkedIn" />
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:jawadnoori1@outlook.com">
   <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="Email" />
 </a>
 

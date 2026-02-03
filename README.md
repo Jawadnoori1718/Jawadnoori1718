@@ -7,8 +7,6 @@
 <br/>
 <br/>
 
----
-
 <div align="center">
 
 ## 🛠️ Tech Stack
@@ -143,33 +141,34 @@
 <br/>
 <br/>
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 <br/>
 
 <div align="center">
 
-## 🎮 Contribution Activity
+<a href="https://jawadnoori.co.uk">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E&borderColor=FF6B6B" height="40" alt="Portfolio" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-</picture>
+<a href="https://linkedin.com/in/jawadnoori1">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="LinkedIn" />
+</a>
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="Email" />
+</a>
 
 </div>
 
 <br/>
-<br/>
-
----
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jawadnoori.co.uk-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://jawadnoori.co.uk)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/jawadnoori1)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:your.email@example.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
-
-<br/>

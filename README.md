@@ -9,6 +9,12 @@
 
 <div align="center">
 
+## 🛠️ Tech Stack
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ### Languages
@@ -137,22 +143,23 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawadnoori1718&theme=radical" width="100%" alt="Contribution Graph"/>
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
 
 <a href="https://jawadnoori.co.uk">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E&borderColor=FF6B6B" height="40" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="Portfolio" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/jawadnoori1">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="LinkedIn" />
 </a>
-
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:jawadnoori1@outlook.com">
   <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="40" alt="Email" />
 </a>
@@ -160,9 +167,4 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
+<br/>

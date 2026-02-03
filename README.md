@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jawad%20Noori&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=fff" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+and+ML+Engineer;Tech+Policy+Analyst;Full+Stack+Software+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;AI+and+ML+Engineer;Tech+Policy+Analyst;Full-Stack+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -21,7 +19,7 @@
 
 <div align="center">
 
-### **Languages**
+### Languages
 
 <table>
 <tr>
@@ -52,7 +50,7 @@
 </tr>
 </table>
 
-### **Frontend Frameworks**
+### Frontend
 
 <table>
 <tr>
@@ -71,7 +69,7 @@
 </tr>
 </table>
 
-### **Backend & Databases**
+### Backend & Databases
 
 <table>
 <tr>
@@ -94,7 +92,7 @@
 </tr>
 </table>
 
-### **Development Tools**
+### Development Tools
 
 <table>
 <tr>
@@ -125,7 +123,7 @@
 </tr>
 </table>
 
-### **Hardware & IoT**
+### Hardware & IoT
 
 <table>
 <tr>
@@ -143,20 +141,6 @@
 </div>
 
 <br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=1f6feb&currStreakLabel=58a6ff" />
-
-</div>
-
 <br/>
 
 ---
@@ -165,67 +149,27 @@
 
 <div align="center">
 
-## 🎮 Contribution Graph
+## 🎮 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
+<br/>
 <br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🌐 Let's Connect
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<a href="https://jawadnoori.co.uk">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br/>
-
-**View My Work**
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="https://linkedin.com/in/jawadnoori1">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/>
-
-**Professional Network**
-
-</td>
-
-<td align="center" width="33%">
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-
-**Send a Message**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-**Open to:** Software Development Opportunities • Full-Stack Projects • Hardware Integration • Collaborative Work
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jawadnoori.co.uk-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://jawadnoori.co.uk)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](https://linkedin.com/in/jawadnoori1)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1b27)](mailto:your.email@example.com)
 
 </div>
 
-<br/>
 <br/>

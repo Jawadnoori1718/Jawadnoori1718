@@ -68,12 +68,12 @@
 <img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
+</tr>
+<tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
 <br><strong>Git</strong>
 </td>
-</tr>
-<tr>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
 <br><strong>GitHub</strong>

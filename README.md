@@ -10,90 +10,92 @@
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=java" width="60" height="60" alt="Java" />
 <br><strong>Java</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="60" height="60" alt="Python" />
 <br><strong>Python</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=javascript" width="60" height="60" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cs" width="60" height="60" alt="C#" />
 <br><strong>C#</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
 <br><strong>HTML</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
 <br><strong>CSS</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="60" height="60" alt="React" />
 <br><strong>React</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br><strong>Bootstrap</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-<br><strong>Spring Boot</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br><strong>MongoDB</strong>
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
+<br><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=spring" width="60" height="60" alt="Spring" />
+<br><strong>Spring Boot</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60" height="60" alt="MongoDB" />
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgresql" width="60" height="60" alt="PostgreSQL" />
 <br><strong>PostgreSQL</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git" />
 <br><strong>Git</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+</tr>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub" />
 <br><strong>GitHub</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VS Code" />
 <br><strong>VS Code</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="Visual Studio" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="60" height="60" alt="Visual Studio" />
 <br><strong>Visual Studio</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="Eclipse" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=eclipse" width="60" height="60" alt="Eclipse" />
 <br><strong>Eclipse</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
 <br><strong>Figma</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="60" height="60" alt="Raspberry Pi" />
 <br><strong>Raspberry Pi</strong>
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=arduino" width="60" height="60" alt="Arduino" />
 <br><strong>Arduino</strong>
 </td>
 </tr>

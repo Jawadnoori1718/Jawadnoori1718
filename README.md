@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;Full-Stack+Developer;AI+and+ML+Engineer;Tech+Policy+Analyst" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=2500&pause=500&color=FF6B6B&center=true&vCenter=true&width=1200&height=100&lines=Software+Engineer;Full-Stack+Developer;AI+and+ML+Engineer;Tech+Policy+Analyst" alt="Typing SVG" />
 
 </div>
 
@@ -40,6 +40,10 @@
 </td>
 </tr>
 <tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+<br><strong>Figma</strong>
+</td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="Tailwind" />
 <br><strong>Tailwind CSS</strong>
@@ -85,10 +89,6 @@
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=eclipse" width="60" height="60" alt="Eclipse" />
 <br><strong>Eclipse</strong>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
-<br><strong>Figma</strong>
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" height="60" alt="Raspberry Pi" />

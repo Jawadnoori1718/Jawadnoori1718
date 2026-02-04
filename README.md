@@ -17,11 +17,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" /><br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-
-**HTML** · **CSS** · **JavaScript**  
-**React** · **Tailwind CSS** · **Bootstrap**
+<img src="https://skillicons.dev/icons?i=html,css" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=javascript,react" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" width="120"/>
 
 </div>
 
@@ -33,13 +31,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cs" /><br/>
-<img src="https://skillicons.dev/icons?i=spring" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-**Java** · **Python** · **C#**  
-**Spring Boot**  
-**MySQL** · **MongoDB** · **PostgreSQL**
+<img src="https://skillicons.dev/icons?i=java,python" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=cs,spring" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" width="120"/>
 
 </div>
 
@@ -51,13 +45,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br/>
-<img src="https://skillicons.dev/icons?i=visualstudio,eclipse,figma" /><br/>
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-
-**Git** · **GitHub** · **VS Code**  
-**Visual Studio** · **Eclipse** · **Figma**  
-**Raspberry Pi** · **Arduino**
+<img src="https://skillicons.dev/icons?i=git,github" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio" width="120"/><br/>
+<img src="https://skillicons.dev/icons?i=eclipse,figma" width="120"/>
 
 </div>
 

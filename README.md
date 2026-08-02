@@ -8,6 +8,14 @@
 
 <div align="center">
 
+<img src="./profile-3d-contrib/jawad-3d.svg" width="100%" alt="3D contribution calendar" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="110">
@@ -102,39 +110,6 @@
 </table>
 
 </div>
-
-<br/>
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/_git_log-\-\-graph_\-\-all-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="34" alt="git log --graph --all" />
-
-</div>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'git0':'#FF6B6B','git1':'#FFA36C','git2':'#FF8FA3','git3':'#F4A261','gitBranchLabel0':'#1F222E','gitBranchLabel1':'#1F222E','gitBranchLabel2':'#1F222E','gitBranchLabel3':'#1F222E','commitLabelColor':'#FF6B6B','commitLabelBackground':'#00000000','tagLabelColor':'#1F222E','tagLabelBackground':'#FF6B6B','tagLabelBorder':'#FF6B6B'},'gitGraph':{'mainBranchName':'jawad-noori'}}}%%
-gitGraph
-   commit id: "Brunel CS 2024"
-   commit id: "RAEng Scholar"
-   branch ventures
-   checkout ventures
-   commit id: "SunCircle CIC"
-   commit id: "Ofgem Sandbox"
-   checkout jawad-noori
-   commit id: "DeepMind RRS" type: HIGHLIGHT
-   branch research
-   checkout research
-   commit id: "Token Tariff"
-   commit id: "PashtoBench"
-   commit id: "AI Assurance"
-   checkout jawad-noori
-   branch writing
-   checkout writing
-   commit id: "Tech Meets Policy"
-   checkout jawad-noori
-   commit id: "BSc Hons" tag: "2027"
-```
 
 <br/>
 <br/>

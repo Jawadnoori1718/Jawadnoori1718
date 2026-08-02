@@ -108,33 +108,32 @@
 
 <div align="center">
 
-<a href="https://github.com/Jawadnoori1718/PersianToken">
-  <img src="https://img.shields.io/badge/_Research-The_Token_Tariff-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="34" alt="The Token Tariff" />
-</a>
+<img src="https://img.shields.io/badge/_git_log-\-\-graph_\-\-all-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="34" alt="git log --graph --all" />
 
 </div>
 
-<br/>
-
-```
-
-  THE TOKEN TARIFF   ·   one identical sentence, priced in four languages
-
-  ──────────────────────────────────────────────────────────────────────────
-
-  English      ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    24 tokens   1.00x
-  French       █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░    31 tokens   1.29x
-  Persian      ████████████████████████░░░░░░░░░░░░░░░░    58 tokens   2.42x
-  Pashto       ████████████████████████████████████░░░░    87 tokens   3.63x
-
-  ──────────────────────────────────────────────────────────────────────────
-
-  Same meaning. Same model. Same API. Three and a half times the bill.
-
-  Tokenisers are trained overwhelmingly on English text, so low-resource
-  scripts fragment into far more tokens per unit of meaning. The result is
-  a silent tax on every non-English speaker using an LLM.
-
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'git0':'#FF6B6B','git1':'#FFA36C','git2':'#FF8FA3','git3':'#F4A261','gitBranchLabel0':'#1F222E','gitBranchLabel1':'#1F222E','gitBranchLabel2':'#1F222E','gitBranchLabel3':'#1F222E','commitLabelColor':'#FF6B6B','commitLabelBackground':'#00000000','tagLabelColor':'#1F222E','tagLabelBackground':'#FF6B6B','tagLabelBorder':'#FF6B6B'},'gitGraph':{'mainBranchName':'jawad-noori'}}}%%
+gitGraph
+   commit id: "Brunel CS 2024"
+   commit id: "RAEng Scholar"
+   branch ventures
+   checkout ventures
+   commit id: "SunCircle CIC"
+   commit id: "Ofgem Sandbox"
+   checkout jawad-noori
+   commit id: "DeepMind RRS" type: HIGHLIGHT
+   branch research
+   checkout research
+   commit id: "Token Tariff"
+   commit id: "PashtoBench"
+   commit id: "AI Assurance"
+   checkout jawad-noori
+   branch writing
+   checkout writing
+   commit id: "Tech Meets Policy"
+   checkout jawad-noori
+   commit id: "BSc Hons" tag: "2027"
 ```
 
 <br/>

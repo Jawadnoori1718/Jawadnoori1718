@@ -108,9 +108,34 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawadnoori1718&bg_color=1F222E&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&area_color=FF6B6B&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+<a href="https://github.com/Jawadnoori1718/PersianToken">
+  <img src="https://img.shields.io/badge/_Research-The_Token_Tariff-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1F222E" height="34" alt="The Token Tariff" />
+</a>
 
 </div>
+
+<br/>
+
+```
+
+  THE TOKEN TARIFF   ·   one identical sentence, priced in four languages
+
+  ──────────────────────────────────────────────────────────────────────────
+
+  English      ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    24 tokens   1.00x
+  French       █████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░    31 tokens   1.29x
+  Persian      ████████████████████████░░░░░░░░░░░░░░░░    58 tokens   2.42x
+  Pashto       ████████████████████████████████████░░░░    87 tokens   3.63x
+
+  ──────────────────────────────────────────────────────────────────────────
+
+  Same meaning. Same model. Same API. Three and a half times the bill.
+
+  Tokenisers are trained overwhelmingly on English text, so low-resource
+  scripts fragment into far more tokens per unit of meaning. The result is
+  a silent tax on every non-English speaker using an LLM.
+
+```
 
 <br/>
 <br/>

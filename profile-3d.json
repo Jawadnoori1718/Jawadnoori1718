@@ -1,0 +1,20 @@
+[
+  {
+    "type": "normal",
+    "fileName": "jawad-3d.svg",
+    "backgroundColor": "#1F222E",
+    "foregroundColor": "#FFFFFF",
+    "strongColor": "#FF6B6B",
+    "weakColor": "#8B93A7",
+    "radarColor": "#FF6B6B",
+    "growingAnimation": true,
+    "duration": "6s",
+    "contribColors": [
+      "#2A2E3D",
+      "#5C3A44",
+      "#A34F55",
+      "#FF6B6B",
+      "#FFA9A0"
+    ]
+  }
+]

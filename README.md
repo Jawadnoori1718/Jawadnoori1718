@@ -8,14 +8,6 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/jawad-3d.svg" width="100%" alt="3D contribution calendar" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="110">
@@ -108,6 +100,15 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jawadnoori1718&bg_color=1F222E&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&area_color=FF6B6B&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 </div>
 
